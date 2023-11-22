@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quiago</h1>
 <h3 align="center">A passionate backend developer and data scientist from Cuba</h3>
 
-- 🔭 I’m currently working on <a href="https://fyself.com/#contact">Fyself</a>          
+- 🔭 I’m currently working on: <a href="https://fyself.com" target="_blank">Fyself</a>          
 
 - 🌱 I’m currently learning **Java Spring Webflux and ML algorithms with Tensorflow and Pytorch**
 
