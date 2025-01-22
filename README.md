@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Quiago</h1>
-<h3 align="center">A passionate backend developer and data scientist from Cuba</h3>
+<h3 align="center">A passionate data engineer and data scientist from Cuba</h3>
 
-- 🔭 I’m currently working on: <a href="https://fyself.com" target="_blank">Fyself</a>          
+- 🔭 I’m currently working on: <a href="https://https://avangenio.com/" target="_blank">Avangenio</a>          
 
-- 🌱 I’m currently learning **Java Spring Webflux and ML algorithms with Tensorflow and Pytorch**
+- 🌱 I’m currently learning **Data architectures, analysi patterns and data pipelines**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Backend projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Engineer projects**
 
-- 🤝 I’m looking for help with **All about ML, Deep Learning and AI**
+- 🤝 I’m looking for help with **All about ML, Big Data and AI**
 
 - 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cquiala12@gmail.com**
 
-- 📄 Know about my experiences [My LinkedIn](My LinkedIn)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/quiago/">My Linkedin</a>
 
 - ⚡ Fun fact **I love travel and I hope I can work around the world knowning new places**
 
