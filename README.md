@@ -3,21 +3,21 @@
 
 - 🔭 I’m currently working on: <a href="https://https://avangenio.com/" target="_blank">Avangenio</a>          
 
-- 🌱 I’m currently learning **Data architectures, analysi patterns and data pipelines**
+- 🌱 I’m currently learning **Data architectures, analysis patterns and data pipelines**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Engineer projects**
 
 - 🤝 I’m looking for help with **All about ML, Big Data and AI**
 
-- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Quiago?tab=repositories">My Repo</a>
 
-- 💬 Ask me about **Python,FastAPI, Deep Learning, CNN, Clustering**
+- 💬 Ask me about **Python, FastAPI, Deep Learning, CNN, Clustering**
 
 - 📫 How to reach me **cquiala12@gmail.com**
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/quiago/">My Linkedin</a>
 
-- ⚡ Fun fact **I love travel and I hope I can work around the world knowning new places**
+- ⚡ Fun fact **I love travel and I hope I can work around the world knowing new places**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
