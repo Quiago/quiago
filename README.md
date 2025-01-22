@@ -9,10 +9,10 @@
 
 - 🤝 I’m looking for help with **All about ML, Big Data and AI**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Quiago?tab=repositories">My Repo</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Quiago?tab=repositories">My Repos</a>
 
 - 💬 Ask me about **Python, FastAPI, Deep Learning, CNN, Clustering**
-
+knowning
 - 📫 How to reach me **cquiala12@gmail.com**
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/quiago/">My Linkedin</a>
